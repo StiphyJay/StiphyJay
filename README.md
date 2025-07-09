@@ -3,14 +3,13 @@
 - 😄 Work hard! Play hard!
 - 🔭 I'm a 4th-year Ph.D. student (from Sep 2021) at the Southeast University...
 - ⚡ I’m currently researching LLM/MLLMs efficiency, 3D perception, odometry and pose estimation...
-- 👯 I am also a research intern at the Robotics Institute of Carnegie Mellon University (CMU), under the supervision of Professor Sebastian Scherer and Wenshan Wang.
-- 🌱 I’m previously working as a research assistant at Fudan University with Prof. Patrick Yin Chiang.
 - 📫 How to reach me: sifanjay@gmail.com
 <!--
 **StiphyJay/StiphyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👯 I am also a research intern at the Robotics Institute of Carnegie Mellon University (CMU), under the supervision of Professor Sebastian Scherer and Wenshan Wang.
+- 🌱 I’m previously working as a research assistant at Fudan University with Prof. Patrick Yin Chiang.
 - 🔭 I’m previously working as a research assistant at Fudan University with Prof. Patrick Yin Chiang.
 - 🌱 I’m currently researching  3D object detection and tracking method based on multi-sensor fusion...
 - 👯 I’m looking to collaborate on supervised and self-supervised object detection
