@@ -2,6 +2,9 @@
 ### About me...
 - 😄 Work hard! Play hard!
 - 🔭 I'm a 4th-year Ph.D. student (from Sep 2021) at the Southeast University...
+- ⚡ I’m currently researching LLM/MLLMs efficiency, 3D perception, odometry and pose estimation...
+- 👯 I am also a research intern at the Robotics Institute of Carnegie Mellon University (CMU), under the supervision of Professor Sebastian Scherer and Wenshan Wang.
+- 🌱 I’m previously working as a research assistant at Fudan University with Prof. Patrick Yin Chiang.
 - 📫 How to reach me: sifanjay@gmail.com
 <!--
 **StiphyJay/StiphyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
