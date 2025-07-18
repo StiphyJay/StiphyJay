@@ -5,7 +5,7 @@
 - 👯 I am also a visiting intern at the Robotics Institute (RI) of Carnegie Mellon University (CMU), collaborating with Shibo Zhao, under the supervision of Professor Sebastian Scherer and Wenshan Wang.
 - 🔭 I previously worked as a research assistant at Fudan University with Prof. Patrick Yin Chiang, focusing on Onboard Point Cloud Perception.
 - 🌱 I’m currently focusing on efficient AI, especially for LLMs/MLLMs, 3D Perception, Point Cloud, and Pose Estimation...
-- 🤔 I’m looking for collaboration and discussion on efficient Point Cloud Perception and LLMs.
+- 🤔 I’m looking for academic collaboration and discussion on efficient Point Cloud Perception and LLMs.
 - 📫 How to reach me: sifanjay@gmail.com
 <!--
 **StiphyJay/StiphyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
