@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Sifan Zhou
 ### About me...
 - 😄 Work hard! Play hard!
-- 🔭 I'm a 4th-year Ph.D. student (from Sep 2021) at the Southeast University...
+- 🔭 I'm a 4th-year Ph.D. student (from Sep 2021) at Southeast University...
 - 👯 I am also a visiting intern at the Robotics Institute (RI) of Carnegie Mellon University (CMU), collaborating with Shibo Zhao, under the supervision of Prof. Wenshan Wang and Prof. Sebastian Scherer.
 - 🔭 I previously was a visiting student at Fudan University with Prof. Patrick Yin Chiang, focusing on Onboard Point Cloud Perception.
 - 🌱 I’m currently focusing on efficient AI, especially for LLMs/MLLMs, 3D Perception, Point Cloud, and Pose Estimation...
 - 🤔 I’m looking for academic collaboration and discussion on efficient Point Cloud Perception and LLMs.
-- 📫 How to reach me: sifanjay@gmail.com
+- 📫 How to reach me: sifanjay@gmail.com, if I didn't reply to you on GitHub issue in time, please email me!
 <!--
 **StiphyJay/StiphyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
